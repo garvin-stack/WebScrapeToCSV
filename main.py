@@ -27,6 +27,6 @@ try:
         print("Price:", price.text + "." + fraction.text)
         print("Name:", name.text)
         print("---")
-        print("x")
+        print("xa")
 finally:
     driver.quit()
